@@ -1,1 +1,1 @@
-Se realizaron dos archivos de python uno para version local (Python y SQLite) y otro para version web (Python, Flask y MySQL).
+Se realizo un archivo de python para version local usando Python, tkinter y SQLite para guardar los datos.
